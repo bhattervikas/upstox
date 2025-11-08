@@ -1,5 +1,5 @@
 git clone https://github.com/yourusername/mcp-server-upstox-api.git
 cd mcp-server-upstox-api
 npm install
-
+npm run start
 
